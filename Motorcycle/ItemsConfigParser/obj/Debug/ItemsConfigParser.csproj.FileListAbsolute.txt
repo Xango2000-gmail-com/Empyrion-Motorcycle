@@ -1,0 +1,7 @@
+F:\Repos\Motorcycle\ItemsConfigParser\bin\Debug\ItemsConfigParser.exe.config
+F:\Repos\Motorcycle\ItemsConfigParser\bin\Debug\ItemsConfigParser.exe
+F:\Repos\Motorcycle\ItemsConfigParser\bin\Debug\ItemsConfigParser.pdb
+F:\Repos\Motorcycle\ItemsConfigParser\obj\Debug\ItemsConfigParser.csprojAssemblyReference.cache
+F:\Repos\Motorcycle\ItemsConfigParser\obj\Debug\ItemsConfigParser.csproj.CoreCompileInputs.cache
+F:\Repos\Motorcycle\ItemsConfigParser\obj\Debug\ItemsConfigParser.exe
+F:\Repos\Motorcycle\ItemsConfigParser\obj\Debug\ItemsConfigParser.pdb
